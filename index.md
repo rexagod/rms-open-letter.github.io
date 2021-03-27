@@ -2217,6 +2217,7 @@ Free Software Contributor)
 1. Pouhiou Noénaute (co-director of Framasoft)
 1. Pradyun Gedam
 1. Pranav Teegavarapu
+1. Pranshu Srivastava (Node.js Collaborator, Red Hat)
 1. Priit Laes (`@plaes`)
 1. Quentin Minster
 1. Rachel Chalmers (boardmember, The Ada Initiative)
